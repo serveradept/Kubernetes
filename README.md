@@ -1,3 +1,5 @@
+![image](https://github.com/serveradept/Kubernetes/assets/65065367/e8809f34-7b34-491c-aaff-c9d47bfc1b86)
+
 # About Kubernetes 🚀
 
 Welcome to the world of Kubernetes! This README provides a brief overview of Kubernetes, its features, and how you can get started.
